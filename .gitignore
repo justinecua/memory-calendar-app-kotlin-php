@@ -1,0 +1,31 @@
+# === Android & Kotlin ===
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# === PHP ===
+vendor/
+.env
+*.log
+
+# === OS / Misc ===
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Node (if frontend with npm or vite is involved) ===
+node_modules/
+dist/
